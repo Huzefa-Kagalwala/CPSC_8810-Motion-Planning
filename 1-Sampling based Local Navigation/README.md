@@ -1,4 +1,4 @@
-## CPSC 8810 - Motion Planning
+# CPSC 8810 - Motion Planning
 ### ASSIGNMENT 1: Sampling-Based Local Navigation
 ### Submitted by: Huzefa Shabbir Hussain Kagalwala
 ### Submission date: 01-26-2020
