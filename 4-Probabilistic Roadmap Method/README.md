@@ -2,6 +2,7 @@
 ## Submitted by: Huzefa Shabbir Hussain Kagalwala
 
 ## Code Walk-through:
+Please read the `p04.pdf` file, to understand the problem statement.
 ### CONSTRUCTION PHASE:
 1. **Sampling:**
    First we sample points by using meshgrid and adding some noise to the samples to induce randomness. The randomness has been added by    taking the width of the samples and based on that, we generate random samples. These samples are then added to the meshgrid points. The    "poinGenerator()" function takes the meshgrid limits, the spacing required and the "noise factor" we want. A factor of 1, means no noise    (due to data type mismatch, to have no noise, use 0.999999, instead of 1) and anything other than that will add noise.
