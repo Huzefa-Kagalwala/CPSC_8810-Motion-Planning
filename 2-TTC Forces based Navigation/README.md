@@ -16,26 +16,25 @@ Note: The initial 4 values mentioned here are hard-coded in the script `agent.py
 
 ### EXTRA CREDITS:
 
-####POWER LAW:
+#### POWER LAW:
 The parameters mentioned in the **BASIC REQUIREMENTS** are also common for this scenario
 tau_0 = 3 (Exponential cut-off point)
 These are the seperate parameters for the epsilion = 0 and 0.02:
 1. EPSILON = 0.2 (Velocity uncertainty constant)
-   -k = 1.05 (PowerLaw scaling factor)
-   -m = 1 (PowerLaw constant)
+   - k = 1.05 (PowerLaw scaling factor)
+   - m = 1 (PowerLaw constant)
 2. EPSILON = 0 (Velocity uncertainty constant
-   -k = 1.272 (PowerLaw scaling factor)
-   -m = 1 (PowerLaw constant)
+   - k = 1.272 (PowerLaw scaling factor)
+   - m = 1 (PowerLaw constant)
 
-####VELOCITY PERTURBATION:
-Radius of disk from which velocity perturbations are sampled (nu) = 0.1
-epsilon = 0.2 (Velocity uncertainty constant)
-Other parameters are common
-The TTC model is used here, instead of PowerLaw
+#### VELOCITY PERTURBATION:
+1. Radius of disk from which velocity perturbations are sampled (nu) = 0.1
+2. epsilon = 0.2 (Velocity uncertainty constant)
+3. Other parameters are common. The TTC model is used here, instead of PowerLaw
 
-####ADVERSARIAL UNCERTAINTY:
-Same parameters as Velocity Perturbation
-TTC Model is used here instead of of PowerLaw
+#### ADVERSARIAL UNCERTAINTY:
+1. Same parameters as Velocity Perturbation
+2. TTC Model is used here instead of of PowerLaw
 
 ### Usage Instructions:
 1. You will require NumPy, ScyPy, Matplotlib, Tkinter to run this code.
