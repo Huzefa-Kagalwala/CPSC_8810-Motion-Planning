@@ -7,7 +7,7 @@
 #
 # Author: Ioannis Karamouzas (ioannis@g.clemson.edu)
 #
-# COde submitted by Huzefa Kaaglwala (C48290423) and rahil Modi (C14109603)
+# COde submitted by Huzefa Kaaglwala (C48290423)
 import numpy as np
 import math
 from math import sqrt

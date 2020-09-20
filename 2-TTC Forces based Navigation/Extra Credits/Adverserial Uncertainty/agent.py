@@ -7,7 +7,7 @@
 # 
 # Author: Ioannis Karamouzas (ioannis@g.clemson.edu)
 # This Adverserial Uncertainty Model is implemented in the TTC Method
-# Code submitted by Huzefa Kagalwala (C48290423) and Rahil Modi (C14109603)
+# Code submitted by Huzefa Kagalwala (C48290423)
 import numpy as np
 import math
 import random
