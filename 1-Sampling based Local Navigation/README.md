@@ -1,7 +1,7 @@
-### CPSC 8810 - Motion Planning
-#### ASSIGNMENT 1: Sampling-Based Local Navigation
-#### Submitted by: Huzefa Shabbir Hussain Kagalwala
-#### Submission date: 01-26-2020
+## CPSC 8810 - Motion Planning
+### ASSIGNMENT 1: Sampling-Based Local Navigation
+### Submitted by: Huzefa Shabbir Hussain Kagalwala
+### Submission date: 01-26-2020
 
 #### Variable Description:
 1. N = The sample size over which random velocities are generated
