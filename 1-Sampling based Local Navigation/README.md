@@ -1,5 +1,4 @@
-# CPSC 8810 - Motion Planning
-### ASSIGNMENT 1: Sampling-Based Local Navigation
+# ASSIGNMENT 1: Sampling-Based Local Navigation
 ### Submitted by: Huzefa Shabbir Hussain Kagalwala
 ### Submission date: 01-26-2020
 
@@ -26,4 +25,4 @@
 2. `agent.py` is the file which contains the code to perform sampling-based navigation for disc shaped agents.
 3. To run the visualization, run the `simulator.py` file.
 4. To change the number of agents, change the file name in Line 21 of `simulator.py` to either **3_agents.csv** or **8_agents.csv**.
-5. Upon running the `simulator.py` file, you will generate two .csv files which contain the ID, location and velocities of all the agents at each time step of the simulation.
+5. Upon running the `simulator.py` file, you will generate a .csv file which contain the ID, location and velocities of all the agents at each time step of the simulation.
