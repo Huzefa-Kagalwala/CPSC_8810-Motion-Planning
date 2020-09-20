@@ -1,6 +1,6 @@
 # CPSC8810 - Motion Planning
 
-This repository consists the assignments and final project done in the course CPSC8810-Motion Planning during the Spring Semester 2020 at Clemson Univerity - International Center for Automotive Research.
+This repository contains the assignments and final project done in the course CPSC8810-Motion Planning during the Spring Semester 2020 at Clemson Univerity - International Center for Automotive Research.
 
 
 ## [Sampling Based Local Navigation using Reactive Forces](https://github.com/Huzefa-Kagalwala/CPSC_8810-Motion-Planning/tree/master/1-Sampling%20based%20Local%20Navigation)
